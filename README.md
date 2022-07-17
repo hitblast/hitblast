@@ -1,1 +1,1 @@
-[![Dock](dock.png)](#)
+[![Terminal](terminal.png)](#)
