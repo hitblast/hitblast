@@ -1,3 +1,1 @@
-<div align="center">
-    <img src="terminal.png" alt="Terminal">
-</div>
+[![@hitblast's Holopin Board](https://holopin.io/api/user/board?user=hitblast)](https://holopin.io/@hitblast)
