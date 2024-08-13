@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="top.png">
+<a href="https://hitblastis.me/"><img src="top.png"></a>
 
 <br>
 
