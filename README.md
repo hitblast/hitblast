@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://hitblastis.me/">Portfolio</a> | <a href="https://discordapp.com/users/867993514917654588">Discord</a>
+### <a href="https://hitblastis.me/">Portfolio</a> | <a href="https://discordapp.com/users/867993514917654588">Discord</a>
 
 ---
 
