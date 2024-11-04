@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://hitblastis.me/"><img src="top.png"></a>
-
-<br>
-
-### Want to get in touch? Here's some handy hyperlinks: <a href="https://discordapp.com/users/867993514917654588">Discord</a>
+#### [dev blog](https://dev.to/hitblast) | [projects](https://github.com/hitblast?tab=repositories) | [website](https://hitblastis.me/)
 
 ---
 
