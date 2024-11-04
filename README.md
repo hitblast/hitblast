@@ -4,6 +4,6 @@
 
 ---
 
-### [dev blog](https://dev.to/hitblast) | [projects](https://github.com/hitblast?tab=repositories) | [website](https://hitblastis.me/)
+### [[blog](https://dev.to/hitblast)] ~ [[projects](https://github.com/hitblast?tab=repositories)] ~ [[website](https://hitblastis.me/)] ~ [[linkedin](https://www.linkedin.com/in/hitblast/)] ~ [[mastodon](https://fosstodon.org/@hitblast)]
 
 </div>
