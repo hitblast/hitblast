@@ -1,5 +1,5 @@
 <div align="center">
 
-_"Well the cherries weren't that bad y'know."_
+<img src="blep.png" width="30px">
 
 </div>
