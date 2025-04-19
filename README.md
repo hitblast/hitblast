@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="blep.png" width="30px">
+<img src="blep.png" width="200px">
 
 </div>
