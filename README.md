@@ -1,8 +1,7 @@
+<div align="center">
 
-<img src="blep.gif" width="200px" align="left">
+<img src="blep.gif" width="200px">
 
-<div align="right">
-
-Oh, this is blep at the left by the way.
+Oh, this is blep.
 
 </div>
