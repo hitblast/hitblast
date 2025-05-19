@@ -3,8 +3,6 @@
 
 <div align="right">
 
-![Codewars](https://www.codewars.com/users/hitblast/badges/large)
-
-</div>
+Oh, this is blep at the left by the way.
 
 </div>
