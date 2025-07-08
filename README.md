@@ -1,1 +1,1 @@
-Hmm, maybe I could automate this section too?
+Also find me on: [tangled.sh](https://tangled.sh/@hitblast.github.io)
