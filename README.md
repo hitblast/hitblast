@@ -1,4 +1,4 @@
-<img src="sprite.png" align="left" width="15%" height="15%">
+<img src="bini.gif" align="left" width="15%" height="15%">
 
 ### Hi!
 
