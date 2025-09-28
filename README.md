@@ -1,4 +1,4 @@
-### Hi!
+### 🔨👀
 
 I'm Anindya (he/him) and I'm a student who also happens to write a lot of code. I also love art [currently doing pixel art].
 
@@ -6,4 +6,4 @@ As some wise person once told, selling the shovels is better than digging the go
 
 I'm also into tinkering with operating systems, as I make a lot of OS-specific programs. [Alter](https://hitblast.github.io/Alter) is one of them, which enables macOS users to change their app icons with ease.
 
-Consider [viewing my blogfolio](https://hitblast.github.io) if you're interested in reading, or, reach out via my <a href="https://discord.gg/ydH7hHdX8k">Discord server</a> for discussing all things software.
+Consider [viewing my blogfolio](https://hitblast.github.io) if you're interested in reading.
