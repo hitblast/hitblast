@@ -1,6 +1,6 @@
-### 🔨👀 Hey!
+### 🔨👀
 
-GitHub isn't the best of places for intros, but hey, I'm Anindya. I'm a student who also happens to be writing a lot of code.
+GitHub isn't the best of places for intros, but hey, I'm Anindya, a student who also happens to be writing a lot of code.
 
 I'm the core maintainer of [avro.py](https://github.com/hitblast/avro.py), a Python library enabling thousands of devs to write Bengali content in their apps. I've also created some handy tools, namely [cutler](https://cutlercli.github.io) for macOS and [Alter](https://hitblast.github.io/Alter). By their outlook, you can surely say I'm a tinkerer of OSs.
 
