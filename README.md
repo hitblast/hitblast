@@ -1,9 +1,8 @@
 ### 🔨👀
 
-GitHub isn't the best of places for intros, but hey, I'm Anindya, a student who also happens to be writing a lot of code.
+GitHub isn't the best place for an intro, but here's mine:
 
-I'm the core maintainer of [avro.py](https://github.com/hitblast/avro.py), a Python library enabling thousands of devs to write Bengali content in their apps. I've also created some handy tools, namely [cutler](https://cutlercli.github.io) for macOS and [Alter](https://hitblast.github.io/Alter). By their outlook, you can surely say I'm a tinkerer of OSs.
+Core maintainer of various projects including [avro.py](https://github.com/hitblast/avro.py); a Python library enabling thousands of devs to include Bengali localization their code. Also currently the maintainer of an UWP project named [cutler](https://cutlercli.github.io); a tool to automate macOS setup. I love to
+obsess over how my code reflects my mental conventions, though every line of code is a liability anyway.
 
-Programming has enabled me to explore parts of my imagination I previously found locked behind forbidden walls, but I'm currently sharing my experiences as well.
-
-Consider [viewing my blogfolio](https://hitblast.github.io) if you're interested in reading.
+Consider [viewing my blogfolio](https://hitblast.github.io) if you're interested in reading more about the things I try, the code I write and the life I log into everyday.
