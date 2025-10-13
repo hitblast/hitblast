@@ -1,5 +1,3 @@
-### 🔨👀 Hi!
+Trying not to be fancy with code.
 
-I'm Anindya (he/him), currently working as a student and an OSS developer. I'm the core maintainer of various projects including [avro.py](https://github.com/hitblast/avro.py), a Python library enabling thousands of developers to write Bengali localizations for their code. I also love making and tinkering with OS-specific tools, such as [cutler](https://cutlercli.github.io), [Alter](https://hitblast.github.io/Alter) and [defaults-rs](https://github.com/hitblast/defaults-rs).
-
-I love art, especially pixel art. I also love occasional [blog-writing](https://hitblast.github.io).
+I love simple CLIs and tiny apps which fill their purpose. Over-engineering and over-management of things is what I hate about most software "innovation" nowadays. However, I do like people who love their craft.
