@@ -1,5 +1,3 @@
-Trying not to be fancy with code.
+I love tiny apps which fill their purpose. Over-engineering and over-management of things is what I hate about most software "innovation" nowadays. However, I do like people who love their craft.
 
-I love simple CLIs and tiny apps which fill their purpose. Over-engineering and over-management of things is what I hate about most software "innovation" nowadays. However, I do like people who love their craft.
-
-[blog](https://hitblast.github.io/blogs) | [bluesky](https://bsky.app/profile/hitblast.fun) | [mastodon](https://fosstodon.org/@hitblast) | [linkedin](https://linkedin.com/in/hitblast) | [discord](https://discord.com/invite/ydH7hHdX8k) | [holopin](https://www.holopin.io/@hitblast)
+Do you [like reading?](https://hitblast.github.io/blogs) If not, [let's connect](https://linkedin.com/in/hitblast), me too!
